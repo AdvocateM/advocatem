@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mr_maroga" target="blank"><img src="https://img.shields.io/twitter/follow/mr_maroga?logo=twitter&style=for-the-badge" alt="mr_maroga" /></a> </p>
 
-- 🔭 I’m currently working on [EdgeLedger](https://edgeledger5.netlify.app/)
+- 🔭 I’m currently working on [Cloning Netflix](https://github.com/AdvocateM/Netflix-clone)
 
 - 🌱 I’m currently learning **Full-stack software Dev on Codeyourfuture**
 
