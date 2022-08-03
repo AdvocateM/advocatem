@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full-stack software Dev on Codeyourfuture**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdvocateM?tab=repositories](https://github.com/AdvocateM?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://mrmaroga.com)
 
 - 💬 Ask me about **How they spy on you**
 
