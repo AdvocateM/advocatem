@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mr_maroga" target="blank"><img src="https://img.shields.io/twitter/follow/mr_maroga?logo=twitter&style=for-the-badge" alt="mr_maroga" /></a> </p>
 
-- 🔭 I’m currently working on [Cloning tesla](https://github.com/AdvocateM/tesla)
+- 🔭 I’m currently working on [Cloning tesla](https://github.com/AdvocateM/telsa.git)
 
 - 🌱 I’m currently learning **Full-stack software Dev on Codeyourfuture**
 
