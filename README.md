@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mr_maroga" target="blank"><img src="https://img.shields.io/twitter/follow/mr_maroga?logo=twitter&style=for-the-badge" alt="mr_maroga" /></a> </p>
 
-- 🔭 I’m currently working on [Edufocus]([https://github.com/Riyaazct/no-bugs-edufocus-za])
+- 🔭 I’m currently working on [Edufocus]([https://github.com/Riyaazct/no-bugs-edufocus-za)
 
 - 🌱 I’m currently learning **Full-stack software Dev on Codeyourfuture**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **How they spy on you**
 
-- 📫 How to reach me **mrtamaroga@protonmail.com**
+- 📫 How to reach me **mrtamaroga@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tshegofatso-advocate-m-5a9872140](https://www.linkedin.com/in/tshegofatso-advocate-m-5a9872140)
 
