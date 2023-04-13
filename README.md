@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/mr_maroga" target="blank"><img src="https://img.shields.io/twitter/follow/mr_maroga?logo=twitter&style=for-the-badge" alt="mr_maroga" /></a> </p>
 
-- 🔭 I’m currently working on [Edufocus]([https://github.com/Riyaazct/no-bugs-edufocus-za)
+- 🔭 I’m currently working on [Personal Portfolio]([[https://github.com/Riyaazct/no-bugs-edufocus-za](https://github.com/AdvocateM/My-Portfolio-using-Tailwindcss/))
 
 - 🌱 I’m currently learning **Full-stack software Dev on Codeyourfuture**
 
-- 👨‍💻 All of my projects are available at [https://mrmaroga.com)
+- 👨‍💻 All of my projects are available at [https://mrmaroga.co.za)
 
-- 💬 Ask me about **How they spy on you**
+- 💬 Ask me about **Ask me about Full-stack Development!**
 
 - 📫 How to reach me **mrtamaroga@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tshegofatso-advocate-m-5a9872140](https://www.linkedin.com/in/tshegofatso-advocate-m-5a9872140)
 
-- ⚡ Fun fact **I think am bored**
+- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
